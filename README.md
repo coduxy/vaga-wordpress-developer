@@ -15,13 +15,13 @@ Nós estamos procurando por uma pessoa habilidade e apaixonada por WordPress par
 - Ser auto gerenciável (home officer);
 
 ### Requisitos e qualificações para vaga
-- Conhecimento aprofundado em PHP e, principalmente, WordPress.
-- Possuir um ótimo entendimento de tecnologias de front-end, incluindo HTML5, CSS3, Javascript e jQuery.
-- Conhecimento de como interagir como Restful APIs e formatos (JSON e XML).
-- Proeficiência em como funciona ferramenta de versionamento de código (Git ou SVN)
-- Clean Code e boas práticas de desenvolvimento de software.
-- Experiência em ter trabalhado com alguma Metodologia Ágil.
-- Inglês avançado.
+- Conhecimento aprofundado em PHP e, principalmente, WordPress;
+- Possuir um ótimo entendimento de tecnologias de front-end, incluindo HTML5, CSS3, Javascript e jQuery;
+- Conhecimento de como interagir como Restful APIs e formatos (JSON e XML);
+- Proeficiência em como funciona ferramenta de versionamento de código (Git ou SVN);
+- Clean Code e boas práticas de desenvolvimento de software;
+- Experiência em ter trabalhado com alguma Metodologia Ágil;
+- Inglês avançado;
 
 ### Diferenciais
 - Contribuir para projetos open-source via Github ou qualquer outra plataforma open-source de Git
