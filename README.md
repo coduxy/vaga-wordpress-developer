@@ -30,6 +30,7 @@ Regime PJ e **100% remoto!**
 - Gym pass;
 - Pagamento a cada 15 dias (como nos EUA);
 - Reembolso de cursos online;
+- Férias ilimitadas
 
 ### Nossa empresa
 
