@@ -6,7 +6,7 @@ A **Coduxy** é uma startup remota jovem e inovadora que trabalha com vários pr
 
 ### A vaga
 
-Nós estamos procurando por uma pessoa habilidade e apaixonada por WordPress para atuar como Wordpress Developer em nosso **time remoto**! Como um(a) desenvolvedor(a) em WordPress, você será responsável tanto pelo back-end e front-end, incluindo na criação de temas e plugins.
+Nós estamos procurando por uma pessoa habilidosa e apaixonada por WordPress para atuar como Wordpress Developer em nosso **time remoto**! Como um(a) desenvolvedor(a) em WordPress, você será responsável tanto pelo back-end e front-end, incluindo na criação de temas e plugins.
 
 ### Valorizamos
 - Ser pró-ativo(a) e ter muita vontade de aprender;
